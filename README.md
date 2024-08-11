@@ -21,7 +21,9 @@ A especificação do que deve ser implementado está no próprio código fonte d
 - JUnit 5
 - Postman
 
-- ## Postman Collection
+ # Postman Collection
+  Para testar a API, você pode usar a coleção do Postman disponível no link abaixo:
+  
 [Download](https://github.com/GabrielSilva2310/Assets/blob/main/Postman%20Collections%20and%20Enviroments/Spring%20Expert/TDD%20Event%20City/Desafio%20TDD%20Event%20City.postman_collection.json)
 
 
