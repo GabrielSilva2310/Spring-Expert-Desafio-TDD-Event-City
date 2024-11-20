@@ -1,9 +1,9 @@
-# Java Spring Expert Exercício: TDD Event City
+# Java Spring Expert Desafio: TDD Event City
 
 
 # Sobre o projeto
-Este projeto é um exercício do capítulo sobre Testes Automatizados do Curso Java Spring Expert da [DevSuperior](https://devsuperior.com.br "Site da DevSuperior").
-O exercício consiste em implementar as funcionalidades necessárias para que os testes do projeto abaixo passem.
+Este projeto é o desafio do capítulo sobre Testes Automatizados do Curso Java Spring Expert da [DevSuperior](https://devsuperior.com.br "Site da DevSuperior").
+O desafio consiste em implementar as funcionalidades necessárias para que os testes do projeto abaixo passem.
 
 
 ## Especificações e Modelo Conceitual
